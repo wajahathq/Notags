@@ -1,0 +1,64 @@
+
+
+Step1 :
+wquraishi@USPP03-93520535 MINGW64 ~/Documents/GitHub-Config/Projects/Utility/Tagging/testingTags/testtagProjects/ver9
+$ git clone https://github.com/wquraishikpmg/tagProjects.git
+Cloning into 'tagProjects'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 9 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (9/9), 4.22 KiB | 2.11 MiB/s, done.
+Resolving deltas: 100% (3/3), done.
+
+Step 2: cd to repo
+wquraishi@USPP03-93520535 MINGW64 ~/Documents/GitHub-Config/Projects/Utility/Tagging/testingTags/testtagProjects/ver9
+$ cd tagProjects
+
+wquraishi@USPP03-93520535 MINGW64 ~/Documents/GitHub-Config/Projects/Utility/Tagging/testingTags/testtagProjects/ver9/tagProjects (main)
+$ ls
+WorkbenchTagRelease.py  WorkbenchTagReleaseV1.py  WorkbenchTagReleaseV2.py
+
+Step 3: fetch all tags
+
+wquraishi@USPP03-93520535 MINGW64 ~/Documents/GitHub-Config/Projects/Utility/Tagging/testingTags/testtagProjects/ver9/tagProjects (main)
+$ git fetch --all --tags
+Fetching origin
+
+Step 4: Checkout tag v1.9.0  ( The files from 1.9.0 are reflected)
+
+wquraishi@USPP03-93520535 MINGW64 ~/Documents/GitHub-Config/Projects/Utility/Tagging/testingTags/testtagProjects/ver9/tagProjects (main)
+$ git checkout tags/v1.9.0
+Note: switching to 'tags/v1.9.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at c3f3d7e Add files via upload
+
+Step 5: Checkout tag v1.10.0  ( The files from 1.10.0 are reflected)
+
+wquraishi@USPP03-93520535 MINGW64 ~/Documents/GitHub-Config/Projects/Utility/Tagging/testingTags/testtagProjects/ver9/tagProjects ((v1.10.0))
+$ git checkout tags/v1.10.0
+HEAD is now at c3f3d7e Add files via upload
+
+Step 6: Checkout tag v1.11.0  ( The files from 1.10.0 are reflected)
+
+wquraishi@USPP03-93520535 MINGW64 ~/Documents/GitHub-Config/Projects/Utility/Tagging/testingTags/testtagProjects/ver9/tagProjects ((v1.10.0))
+$ git checkout tags/v1.11.0
+Previous HEAD position was c3f3d7e Add files via upload
+HEAD is now at e4eeca3 Graceful exits if tag and release already exist.
+
+wquraishi@USPP03-93520535 MINGW64 ~/Documents/GitHub-Config/Projects/Utility/Tagging/testingTags/testtagProjects/ver9/tagProjects ((v1.11.0))
