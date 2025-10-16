@@ -1,0 +1,50 @@
+
+I recently onboarded to the AI workbench project with the goals to encourage and embrace innovative ideas and approaches, fostering a culture of creativity and continuous improvement, which contributed to the successful implementation of AI Workbench to overall improve the customer experience and quality of outcome. 
+
+1. Foster a culture of creativity and continuous improvement by adopting leveraging advanced technologies like Gen-AI to help build and automate innovative solutions that enhance productivity and quality.
+
+2. Striving to find opportunities to Automate to help optimize and improve efficency 
+
+3. We have globally dispersed teams working across diferent timezones towards building the AIworkbench and using Github as source code repository. Githut does not come with the standard out of the box functionality and will have to build tools and utilities to building collobration between teams and implement best practices for  standardizing on using github thru contiinous improvement and feedback obtained thru github hygine reports and overall improved collobration between development and Operations.
+
+I consistently sought opportunities for process improvements and implemented best practices throughout the year. This ensured efficiency and effectiveness in the implementation of the operational model. Throughout the project, I consistently aimed for operational excellence, identifying opportunities for process improvements, streamlining operations, and implementing best practices to optimize efficiency.
+
+************************************************
+"Foster a culture of creativity and continuous improvement across global teams for leveraging advanced technologies, such as Gen-AI, to build innovative solutions that enhance productivity and quality. Specifically, within FY25, lead the implementation of at least three Gen-AI-driven solutions in the AI Workbench project, resulting in a 20% increase in team productivity and improved customer satisfaction as measured by Net Promoter Scores (NPS)."
+
+ or
+
+(1) Foster a culture of creativity and continuous improvement across global teams by adopting and leveraging advanced technologies like Gen-AI. By Fy25 Q2 lead the development and automation more than 2 innovative AI solutions that enhance productivity and quality, resulting in a measurable increase in customer satisfaction as evidenced by a target Net Promoter Score (NPS) improvement of 15%.”
+
+(2) "By the end of Q3 FY25, identify and implement automation solutions for at least three key processes within our current projects. This will aim to reduce manual work by 30%, improve process efficiency by 20%, and achieve a measurable increase in productivity as assessed by pre- and post-implementation performance metrics."
+
+3.Refined IBO:
+"By the end of Q4 FY25, enhance collaboration for our globally dispersed AI Workbench teams by developing and implementing at least three custom tools and utilities within GitHub. These tools will standardize usage across teams, ensure adherence to best practices, and improve collaboration through continuous feedback as evidenced by GitHub hygiene reports. This initiative aims to increase code quality and reduce integration issues by 20%."
+*******************************************
+Alignment with AT priorities:
+Drive quality outcomes that matter for our clients: Utilize Gen-AI to develop solutions that improve quality.
+Deliver exceptional client experience: Enhance customer experience through measurable improvements.
+Uplift our organization: Lead by example in leveraging advanced technologies for continuous improvement.
+Does this refined IBO statement meet your expectations? Would you like to refine it further or create another IBO? Also, don't forget to thank Anna Janflone and Eris Palushi for the idea of using GPT to help with IBOs.
+-----------------------------------------------
+
+FINAL DRAFT FOR IBO's
+
+Finalized IBOs:
+1. Foster a culture of creativity and continuous improvement across global teams: "By FY25 Q2, lead the development and automation of more than 2 innovative AI solutions by adopting and leveraging advanced technologies like Gen-AI. This will enhance productivity and quality, resulting in a measurable increase in customer satisfaction as evidenced by a target Net Promoter Score (NPS) improvement of 15%."
+
+2. Identify and implement automation solutions: "By the end of Q3 FY25, identify and implement automation solutions for at least three key processes within our current projects. This will reduce manual work by 30%, improve process efficiency by 20%, and achieve a measurable increase in productivity as assessed by pre- and post-implementation performance metrics."
+
+3. Enhance collaboration for globally dispersed AI Workbench teams: "By the end of Q4 FY25, enhance collaboration for our globally dispersed AI Workbench teams by developing and implementing at least three custom tools and utilities within GitHub. These tools will standardize usage across teams, ensure adherence to best practices, and improve collaboration through continuous feedback as evidenced by GitHub hygiene reports. This initiative aims to increase code quality and reduce integration issues by 20%."
+
+4. "By the end of FY25, lead process development and implement efficient incident management and operation support processes with a mature change management framework. Set high standards and promote a culture of excellence by leading cross-functional teams to consistently deliver high-quality, reusable work. This initiative aims to improve quality standards by 25%, meet or exceed project expectations as measured by client satisfaction scores, and foster a culture of excellence through quarterly review sessions and continuous feedback.
+
+&&&&&&&&&&&&&&
+By implementing efficient incident management, support, and change management processes, I ensured that quality standards were met and maintained. Setting high standards and promoting a culture of excellence, I drove the cross functional teams to consistently deliver high-quality reusable work and meet or exceed project expectations. Demonstrating a commitment to driving quality, I fostered a culture of excellence for developing the operational model organization.
+
+"By the end of FY25, lead process development and implement efficient incident management and operation support processes with a mature change management framework. Set high standards and promote a culture of excellence by leading cross-functional teams to consistently deliver high-quality, reusable work. This initiative aims to improve quality standards by 25%, meet or exceed project expectations as measured by client satisfaction scores, and foster a culture of excellence through quarterly review sessions and continuous feedback.
+
+By the end of FY25, lead the process development by implementing efficient incident management and operation support processes with a mature change management framework. Set high standards and promote a culture of excellence by leading cross-functional teams to consistently deliver high-quality, reusable work. This initiative aims to improve quality standards by 25%, meet or exceed project expectations as measured by client satisfaction scores, and foster a culture of excellence through quarterly review sessions and continuous feedback."
+
+
+&&&&&&&&&&
